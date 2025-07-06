@@ -1,0 +1,12 @@
+Arduino IDE installation gude for Windows OS
+
+Download the latest release.
+Double-click the executable (.exe) file.
+Follow the instructions in the installation guide.
+When completing the setup, leave Run Arduino IDE ticked to launch the application, or launch it later from the Start Menu.
+
+
+Arduino HS300x installation guide
+Open Arduino IDE.
+Go to Sketch → Include Library → Manage Libraries.
+Install ”Arduino HS300x” (for temperature and humidity sensor)
