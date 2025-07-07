@@ -9,4 +9,6 @@ When completing the setup, leave Run Arduino IDE ticked to launch the applicatio
 Arduino HS300x installation guide
 Open Arduino IDE.
 Go to Sketch → Include Library → Manage Libraries.
-Install ”Arduino HS300x” (for temperature and humidity sensor)
+Install the following:
+• ”Arduino BMI270 BMM150” (for IMU readings)
+• ”Arduino HS300x” (for temperature and humidity sensor).
